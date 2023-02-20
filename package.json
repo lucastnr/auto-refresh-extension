@@ -1,7 +1,7 @@
 {
   "name": "auto-refresh",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "Chrome extension to auto refresh pages with a given time",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",
