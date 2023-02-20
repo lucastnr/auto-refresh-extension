@@ -3,5 +3,5 @@
 import { receiveMessage } from './utils/message';
 
 receiveMessage('RELOAD_PAGE', () => {
-  console.log(`Received`);
+  console.log('Received');
 });
